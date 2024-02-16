@@ -1,2 +1,2 @@
 # Resume_Management
- A Resume Management Builder
+ A Job Resource Builder
