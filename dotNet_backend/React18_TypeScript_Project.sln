@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34525.116
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "React18_TypeScript_Project", "React18_TypeScript_Project.csproj", "{E5FC1467-EB97-4CE6-B16A-DE0F408FD03A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E5FC1467-EB97-4CE6-B16A-DE0F408FD03A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E5FC1467-EB97-4CE6-B16A-DE0F408FD03A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E5FC1467-EB97-4CE6-B16A-DE0F408FD03A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E5FC1467-EB97-4CE6-B16A-DE0F408FD03A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {62E76EC3-68CC-408E-97ED-CD9BD26FCB6C}
+	EndGlobalSection
+EndGlobal
